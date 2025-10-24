@@ -1,11 +1,11 @@
-# 🧭 Field Service Routing App
+# Field Service Routing App
 
 A full-stack SaaS platform for scheduling, dispatching, and optimizing field service operations.  
 Built for teams that need to assign, track, and route technicians efficiently — with modern web technologies.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - **React.js** (TypeScript)
@@ -30,7 +30,7 @@ Built for teams that need to assign, track, and route technicians efficiently �
 
 ---
 
-## 🧩 Core Features (MVP)
+## Core Features (MVP)
 
 - **User Authentication** (Register, Login, JWT-based sessions)
 - **Job Scheduling** – create and assign jobs to technicians
@@ -41,7 +41,7 @@ Built for teams that need to assign, track, and route technicians efficiently �
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```bash
 field-service-routing-app/
